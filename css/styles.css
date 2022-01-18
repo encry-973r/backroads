@@ -232,7 +232,7 @@ Navbar
   transition: var(--transition);
 }
 .show-links {
-  height: 240px;
+  height: 280px;
 }
 @media screen and (min-width: 992px) {
   .navbar {
